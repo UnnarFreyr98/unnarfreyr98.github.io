@@ -1,2 +1,1 @@
-# unnarfreyr98.github.io
-vef2
+# Verkefni1
