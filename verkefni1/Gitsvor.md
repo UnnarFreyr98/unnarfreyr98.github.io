@@ -14,3 +14,5 @@
 4. Hvað er útgáfustýring (Version Control)?
     Það er kerfi sem skráir niður útgáfur af save-uðum skráunum
     fyrir verkefnið sem git fylgist með
+5. Hverjir eru helstu kostir við að nota GIT?
+    Þú átt alltaf auka skjöl af verkefninu og getur fylgst með árangri og öllum breytingum
