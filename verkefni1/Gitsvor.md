@@ -18,3 +18,5 @@
     Þú átt alltaf auka skjöl af verkefninu og getur fylgst með árangri og öllum breytingum
 6. Hversu oft telur þú að eigi að gera færslur(commit) í verkefni?
     Fyrir hvert svar á að gera commit.
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+    "Working directory" er þar sem þú ert með upprunalegu skránna og "Staging area" er þar sem þú setur síðan local copy af skránnum.
