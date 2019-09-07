@@ -16,3 +16,5 @@
     fyrir verkefnið sem git fylgist með
 5. Hverjir eru helstu kostir við að nota GIT?
     Þú átt alltaf auka skjöl af verkefninu og getur fylgst með árangri og öllum breytingum
+6. Hversu oft telur þú að eigi að gera færslur(commit) í verkefni?
+    Fyrir hvert svar á að gera commit.
